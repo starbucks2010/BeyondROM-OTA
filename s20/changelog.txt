@@ -1,4 +1,4 @@
-BeyondRom 6.9
+BeyondRom v6.9
 
 Implement OTA
 Updated to HWL1 FW Jan 2024
