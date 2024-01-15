@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>BeyondRom</RomName>
-  <VersionName>v6.9</VersionName>
+  <VersionName>6.9</VersionName>
   <BuildNumber type="integer">20240114</BuildNumber>
-  <DownloadURL>https://drive.google.com/file/d/1NkLddh-bTTQn4SB_nhTDSQ7Tyd0B1naB/view?usp=sharing</DownloadURL>
+  <DownloadURL>https://drive.google.com/file/d/1NkLddh-bTTQn4SB_nhTDSQ7Tyd0B1naB/view?usp=sharing#</DownloadURL>
   <AndroidVer>14</AndroidVer>
   <OneUIVer>6.1</OneUIVer>
   <CheckMD5>871cab9154e350bc9658c2e2b7d6ac7c</CheckMD5>
