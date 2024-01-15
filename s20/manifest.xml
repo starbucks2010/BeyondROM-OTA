@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OnOTAInfo>
   <RomName>BeyondRom</RomName>
-  <VersionName>6.9</VersionName>
+  <VersionName>16.9</VersionName>
   <BuildNumber type="integer">20240114</BuildNumber>
   <DownloadURL>https://drive.google.com/file/d/1NkLddh-bTTQn4SB_nhTDSQ7Tyd0B1naB/view?usp=sharing#</DownloadURL>
-  <AndroidVer>14</AndroidVer>
-  <OneUIVer>6.1</OneUIVer>
+  <AndroidVer>15</AndroidVer>
+  <OneUIVer>7.1</OneUIVer>
   <CheckMD5>871cab9154e350bc9658c2e2b7d6ac7c</CheckMD5>
   <FileSize type="long">4239248752</FileSize>
   <WebsiteURL>https://xdaforums.com/t/rom-beyondrom-v6-8-23-12-2023-hwkd-december-patch-g980f-g981b-g985f-g986b-g988b.4203109</WebsiteURL>
